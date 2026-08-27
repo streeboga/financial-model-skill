@@ -1,5 +1,7 @@
 # Financial Model Agent Skill
 
+> Открытый проект [EQ Platform](https://eq.team) — [страница проекта](https://eq.team/open-source/oss-financial-model-skill/)
+
 AI-скилл для создания финансовых моделей бизнеса. Используется в OpenClaw агенте для построения FIM (Financial Independence Model).
 
 ## Возможности
